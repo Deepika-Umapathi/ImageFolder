@@ -1,0 +1,16 @@
+
+<resources>
+
+    <string name="app_name">Image Folder</string>
+
+    <string name="select_image">Select Image</string>
+
+    <string name="foldername">FolderName</string>
+
+    <string name="new_folder">Add New Folder</string>
+
+    <string name="folder_name">Folder Name</string>
+
+    <string name="createfolder">CreateFolder</string>
+
+</resources>
